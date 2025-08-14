@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Double Cheese Burger",
+    "price": "₹180",
+    "image": "images/chees-burge-removebg-preview.png"
+  },
+  {
+    "id": 2,
+    "name": "Fried Chicken",
+    "price": "₹165",
+    "image": "images/fried-chicke-removebg-preview.png"
+  },
+  {
+    "id": 3,
+    "name": "Chicken Roll",
+    "price": "₹100",
+    "image": "images/chicken-rol-removebg-preview.png"
+  },
+  {
+    "id": 4,
+    "name": "Sub Sandwich",
+    "price": "₹135",
+    "image": "images/sandwic-removebg-preview.png"
+  },
+  {
+    "id": 5,
+    "name": "Pizza Mexican",
+    "price": "₹290",
+    "image": "images/pizz-removebg-preview.png"
+  },
+  {
+    "id": 6,
+    "name": "Chicken Lasagna",
+    "price": "₹290",
+    "image": "images/lasagn-removebg-preview.png"
+  },
+  {
+    "id": 7,
+    "name": "Italian Spaghetti",
+    "price": "₹249",
+    "image": "images/spaghett-removebg-preview.png"
+  },
+  {
+    "id": 8,
+    "name": "Spring Roll",
+    "price": "₹90",
+    "image": "images/spring-rol-removebg-preview.png"
+  }
+]
